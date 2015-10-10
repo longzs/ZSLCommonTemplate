@@ -1,0 +1,14 @@
+
+ZSLCommomUtils.xcworkspace/contents.xcworkspacedata
+
+*.xccheckout
+
+*.xcuserstate
+
+*.xcscheme
+
+ZSLCommon-1.0/ZSLCommonLib.xcodeproj/xcuserdata/zhousl.xcuserdatad/xcschemes/xcschememanagement.plist
+
+ZSLCommonExample/ZSLCommonExample.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+
+ZSLCommonExample/ZSLCommonExample.xcodeproj/xcuserdata/zhousl.xcuserdatad/xcschemes/xcschememanagement.plist
