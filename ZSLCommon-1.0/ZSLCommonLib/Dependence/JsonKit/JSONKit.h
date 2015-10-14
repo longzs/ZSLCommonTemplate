@@ -66,6 +66,7 @@
 #import <Foundation/NSError.h>
 #import <Foundation/NSObjCRuntime.h>
 #import <Foundation/NSString.h>
+#import <Foundation/NSJSONSerialization.h>
 #endif // __OBJC__
  
 #ifdef __cplusplus
